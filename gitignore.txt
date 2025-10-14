@@ -1,0 +1,14 @@
+# .gitignore
+
+# Ignore the large dataset files
+Quick_draw_dataset_50-samples/
+
+# Ignore saved model files
+*.pth
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Jupyter/VSCode files
+.ipynb_checkpoints/
+.vscode/
